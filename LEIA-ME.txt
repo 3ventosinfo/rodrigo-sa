@@ -1,0 +1,14 @@
+RODRIGO SÁ — SITE PESSOAL
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra a pasta rodrigo_sa_site.
+3. Dê dois cliques em index.html para abrir no navegador.
+
+Para publicar:
+Envie todo o conteúdo da pasta (index.html e assets/) para a hospedagem do domínio rodrigosa.xyz.
+
+Observações:
+- Os botões de e-mail, telefone/WhatsApp e LinkedIn usam os contatos informados no currículo.
+- A seção de Teologia foi redigida sem atribuir diplomas ou cargos que não constam nos documentos enviados.
+- O site é responsivo e funciona em computadores e celulares.
